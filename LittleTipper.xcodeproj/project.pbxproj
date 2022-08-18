@@ -51,6 +51,7 @@
 		3A95E47A28AEB53300F82ED5 /* LittleTipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleTipperUITests.swift; sourceTree = "<group>"; };
 		3A95E47C28AEB53300F82ED5 /* LittleTipperUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleTipperUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3A95E48928AEB55700F82ED5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		3A95E48B28AEBA9200F82ED5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		3A95E44D28AEB53200F82ED5 = {
 			isa = PBXGroup;
 			children = (
+				3A95E48B28AEBA9200F82ED5 /* README.md */,
 				3A95E48928AEB55700F82ED5 /* .gitignore */,
 				3A95E45828AEB53200F82ED5 /* LittleTipper */,
 				3A95E46F28AEB53300F82ED5 /* LittleTipperTests */,
