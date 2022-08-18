@@ -16,6 +16,7 @@
 		3A95E47128AEB53300F82ED5 /* LittleTipperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A95E47028AEB53300F82ED5 /* LittleTipperTests.swift */; };
 		3A95E47B28AEB53300F82ED5 /* LittleTipperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A95E47A28AEB53300F82ED5 /* LittleTipperUITests.swift */; };
 		3A95E47D28AEB53300F82ED5 /* LittleTipperUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A95E47C28AEB53300F82ED5 /* LittleTipperUITestsLaunchTests.swift */; };
+		3A95E48A28AEB55700F82ED5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3A95E48928AEB55700F82ED5 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3A95E47628AEB53300F82ED5 /* LittleTipperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LittleTipperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A95E47A28AEB53300F82ED5 /* LittleTipperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleTipperUITests.swift; sourceTree = "<group>"; };
 		3A95E47C28AEB53300F82ED5 /* LittleTipperUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleTipperUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3A95E48928AEB55700F82ED5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		3A95E44D28AEB53200F82ED5 = {
 			isa = PBXGroup;
 			children = (
+				3A95E48928AEB55700F82ED5 /* .gitignore */,
 				3A95E45828AEB53200F82ED5 /* LittleTipper */,
 				3A95E46F28AEB53300F82ED5 /* LittleTipperTests */,
 				3A95E47928AEB53300F82ED5 /* LittleTipperUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A95E48A28AEB55700F82ED5 /* .gitignore in Resources */,
 				3A95E46628AEB53300F82ED5 /* LaunchScreen.storyboard in Resources */,
 				3A95E46328AEB53300F82ED5 /* Assets.xcassets in Resources */,
 				3A95E46128AEB53200F82ED5 /* Main.storyboard in Resources */,
