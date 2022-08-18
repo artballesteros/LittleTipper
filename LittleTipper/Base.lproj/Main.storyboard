@@ -31,14 +31,14 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="$0.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="75o-sF-lB4">
-                                <rect key="frame" x="315" y="172" width="45" height="21"/>
+                                <rect key="frame" x="308" y="172" width="67" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="$0.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hz1-NU-8Xa">
-                                <rect key="frame" x="315" y="298" width="45" height="21"/>
+                                <rect key="frame" x="308" y="298" width="67" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -75,10 +75,9 @@
                     </view>
                     <connections>
                         <outlet property="billAmountTextField" destination="quu-bE-OJh" id="ffG-YS-2mr"/>
-                        <outlet property="tip" destination="qoL-yy-82I" id="qQ1-rf-5kn"/>
                         <outlet property="tipAmountLabel" destination="75o-sF-lB4" id="LlP-MK-LJi"/>
                         <outlet property="tipControl" destination="qoL-yy-82I" id="NOe-D9-mcW"/>
-                        <outlet property="totalLabel" destination="Hz1-NU-8Xa" id="rGP-yF-VQP"/>
+                        <outlet property="totalLabel" destination="Hz1-NU-8Xa" id="otn-iu-rtm"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
